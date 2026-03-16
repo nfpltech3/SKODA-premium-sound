@@ -21,7 +21,7 @@ Automated tool to extract line-item data from Premium Sound Solutions (PSS) invo
 
 ### 1. Clone or Download
 ```bash
-git clone <repository-url>
+git clone https://github.com/nfpltech3/SKODA-premium-sound.git
 cd "Pune - Premium Sound"
 ```
 
