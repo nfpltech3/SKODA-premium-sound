@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Build
+dist/
+build/
+# Keep .spec files for consistent builds
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+*.log
+*.csv
+*.xlsx
